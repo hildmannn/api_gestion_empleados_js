@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "root",
+    "password": "hildmann",
+    "database": "gestion_empleados",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 3307
+  }
+}
